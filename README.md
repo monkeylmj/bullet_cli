@@ -52,3 +52,7 @@ bullet --help
 ```
 
 for more information.
+
+## Example
+
+![效果图](https://raw.githubusercontent.com/monkeylmj/bullet_cli/develop/screenshots/s_terminal.png)
